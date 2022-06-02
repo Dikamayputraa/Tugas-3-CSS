@@ -1,0 +1,23 @@
+p{
+	margin-bottom: 20px;
+}
+
+.p1{
+	background-color: orange;
+	font-size: small;
+}
+
+.p2{
+	background-color: blue;
+	font-size: small;
+}
+
+.p3{
+	word-spacing: 5px;
+	font-size: large;
+}
+
+.p4{
+	background-color: grey;
+	font-weight: bold;
+}
